@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6e474d6e447165627a4463666d2f67697068792e676966.gif" width="auto" height="auto"/>
+</div>
+
 <!--
 **rospopa/rospopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
